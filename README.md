@@ -11,7 +11,7 @@ A review of the data allowed the ability to compare hours worked to occupation, 
 
 ![image](https://user-images.githubusercontent.com/111142792/205345582-31195ee0-a994-40e0-b643-e2fbfbbd4dac.png)
 
-From this visual representation of the data you can see that the averages hours worked is signficantly different occupation, slightly different between males and females and almost non-existent amound races. 
+From this visual representation of the data you can see that the averages hours worked is signficantly different amoung occupation, slightly different between males and females, and almost non-existent amoung races. 
 
 The data was skewed towards people making equal to or less than 50k with 76% of the 48842 representing this class. 
 
