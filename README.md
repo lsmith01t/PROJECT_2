@@ -15,7 +15,7 @@ From this visual representation of the data you can see that the averages hours 
 
 The data was skewed towards people making equal to or less than 50k with 76% of the 48842 representing this class. 
 
-To predict the category 3 seperate models were deployed. KNN, Gradient Boosting, and XG Boosting. These models were hypertuned and further optimized to maximize the predictive performance. 
+To predict the target (>50k or not), 3 seperate models were deployed. KNN, Gradient Boosting, and XG Boosting. These models were hypertuned and further optimized to maximize the predictive performance. 
 
 From this analysis the model that performed the best was the base KNN model without any PCA or hypertuning features added. 
 
